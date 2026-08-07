@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "stay": "Stay",
+    "farm": "Farm",
+    "experiences": "Experiences",
+    "dining": "Dining",
+    "about": "About",
+    "book": "Check availability"
+  },
+  "hero": {
+    "eyebrow": "Chinampas · Guanacaste · Costa Rica",
+    "title": "Where the farm meets the ridgeline",
+    "status": "Coffee tours daily · Kitchen by arrangement"
+  },
+  "specifics": {
+    "title": "Three private homes on twenty acres of working land — organic produce, coffee plantation, farm-to-table kitchen, fifteen minutes from Sámara Beach."
+  },
+  "farm": {
+    "eyebrow": "The Farm",
+    "title": "A working farm, not a backdrop",
+    "body": "Sustainability is central to our ethos. We cultivate fruits, vegetables, and coffee using eco-friendly methods on-site. Guests enjoy fresh organic produce during their stay — and can take it home through Blue Mountain Farms."
+  },
+  "coffee": {
+    "eyebrow": "Coffee",
+    "title": "From slope to cup",
+    "body": "Walk the plantation, learn the delicate process of Costa Rican coffee-making, and cup the roast grown on these slopes."
+  },
+  "stay": {
+    "eyebrow": "Stay",
+    "title": "How will you pura vida?",
+    "cta": "View residence"
+  },
+  "experiences": {
+    "eyebrow": "Experiences",
+    "title": "Days shaped by the land"
+  },
+  "people": {
+    "eyebrow": "The people",
+    "title": "Hospitality with proper nouns",
+    "body": "Josué and the team keep every villa pristine and every trail open — world-class care on a working mountain farm."
+  },
+  "testimonials": {
+    "eyebrow": "Guests",
+    "title": "Words from the terrace"
+  },
+  "gettingHere": {
+    "eyebrow": "Getting here",
+    "title": "Closer than it feels"
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "Light, wood, water, green"
+  },
+  "newsletter": {
+    "eyebrow": "Stay in touch",
+    "title": "Notes from the mountain",
+    "placeholder": "Email address",
+    "submit": "Subscribe",
+    "interestStay": "Stays",
+    "interestFarm": "Farm & coffee",
+    "interestEvents": "Retreats & events"
+  },
+  "booking": {
+    "title": "Check availability",
+    "checkIn": "Check in",
+    "checkOut": "Check out",
+    "adults": "Adults",
+    "children": "Children",
+    "submit": "Continue to booking",
+    "bookRoom": "Book a room",
+    "bookHouse": "Book the house",
+    "bookLedge": "Book The Ledge",
+    "enquire": "Enquire"
+  },
+  "footer": {
+    "tagline": "Luxury eco-tourism in the Blue Zone",
+    "contact": "Contact",
+    "follow": "Follow"
+  },
+  "accommodation": {
+    "overview": "Overview",
+    "info": "Information",
+    "experiences": "Experiences",
+    "availability": "Check availability",
+    "amenities": "Amenities",
+    "capacity": "Capacity",
+    "bedrooms": "Bedrooms",
+    "checkInOut": "Check-in / Check-out",
+    "checkInOutValue": "3:00 PM / 11:00 AM",
+    "whatToPack": "What to pack",
+    "whatToPackValue": "Light layers, reef-safe sunscreen, walking shoes, appetite for coffee"
+  }
+}

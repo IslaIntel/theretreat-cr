@@ -1,0 +1,221 @@
+{
+  "site": "https://theretreat.cr",
+  "pulledAt": "2026-08-07T19:52:38.261Z",
+  "meta": {
+    "title": "The Retreat at Blue Mountain Farms",
+    "description": "Luxury eco-retreat in Chinampas, Guanacaste — mountain-view villas, organic farm, coffee tours, and farm-to-table dining fifteen minutes from Sámara Beach.",
+    "location": "Chinampas, Guanacaste, Costa Rica",
+    "acres": 20,
+    "minutesToSamara": 15
+  },
+  "accommodations": [
+    {
+      "slug": "the-ledge-villa",
+      "name": "The Ledge Villa",
+      "accent": "ledge",
+      "capacity": "2–4 guests",
+      "bedrooms": 1,
+      "tagline": "Suspended above the mountain ridge",
+      "summary": "Modern luxury meets Costa Rica’s raw natural beauty. Open-concept villa with king bed, spa-inspired bath, screened porch, and a private infinity pool facing the plantations.",
+      "amenities": [
+        "Private infinity pool",
+        "Ocean & mountain balcony",
+        "Fully equipped kitchen",
+        "Spa bath with soaking tub",
+        "Walk-in closet",
+        "Flexible sleeping (1 king or 2 twins)"
+      ],
+      "imageKeys": [
+        "ledge-1",
+        "ledge-2",
+        "ledge-3"
+      ]
+    },
+    {
+      "slug": "the-retreat-house",
+      "name": "The Retreat House",
+      "accent": "retreat-house",
+      "capacity": "2 guests",
+      "bedrooms": 1,
+      "tagline": "For honeymooners, couples, or solitude",
+      "summary": "A luxurious studio blending modern comfort with rustic charm — private infinity pool, open-concept spa bathroom, and a unique cordwood wall design.",
+      "amenities": [
+        "Private infinity pool",
+        "Open-concept spa bathroom",
+        "Cordwood feature wall",
+        "Mountain & ocean views",
+        "15 minutes from Sámara"
+      ],
+      "imageKeys": [
+        "retreat-house-1",
+        "retreat-house-2"
+      ]
+    },
+    {
+      "slug": "mountain-house",
+      "name": "Mountain House",
+      "accent": "mountain-house",
+      "capacity": "4–6 guests",
+      "bedrooms": 2,
+      "tagline": "Families, small groups, long stays",
+      "summary": "Nestled on 20 private acres of fruit trees and coffee — panoramic ocean and mountain views, outdoor kitchen, pool, and trails to the river.",
+      "amenities": [
+        "Spacious villa layout",
+        "Outdoor kitchen & pool",
+        "20 acres of trails",
+        "On-site coffee & fruit trees",
+        "Ideal for families"
+      ],
+      "imageKeys": [
+        "mountain-1",
+        "mountain-2",
+        "mountain-3"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Our family of four had an incredible stay. The views are impeccable, and the home itself is equipped for comfortable living and is in pristine condition. Josue and his team maintain the property at an impressive level and offer world class hospitality.",
+      "name": "Ryan",
+      "role": "Guest"
+    },
+    {
+      "quote": "We had the best stay. Such a beautiful, special place. We spent hours just relaxing and watching the view. Lots of grounds to explore, we walked down to the river on the property, had a fire at the view point and my children loved the pool.",
+      "name": "Helena",
+      "role": "Guest"
+    },
+    {
+      "quote": "This was our second visit to The Retreat and we left hoping for a third. In the morning we drank coffee grown right onsite, a gift from our hosts. The hospitality is warm, friendly and generous.",
+      "name": "Drew",
+      "role": "Returning guest"
+    }
+  ],
+  "experiences": [
+    {
+      "slug": "farm-to-table",
+      "title": "Chef’s Farm-to-Table",
+      "body": "Tour the organic farm, pick ripe produce, roast coffee, and enjoy a meal cooked with ingredients sourced steps from your table."
+    },
+    {
+      "slug": "coffee-tour",
+      "title": "Coffee Plantation Tour",
+      "body": "Walk the plantation, learn the delicate process of Costa Rican coffee-making, and cup the roast grown on these slopes."
+    },
+    {
+      "slug": "trails",
+      "title": "Hiking Trails & River",
+      "body": "Twenty acres of trails with river access, waterfalls nearby, and a campfire viewpoint for sunsets and stargazing."
+    },
+    {
+      "slug": "blue-zone",
+      "title": "Blue Zone Living",
+      "body": "Slow days in one of Costa Rica’s famed longevity regions — Starlink when you need it, silence when you don’t."
+    }
+  ],
+  "farm": {
+    "title": "A working farm, not a backdrop",
+    "body": "Sustainability is central. We cultivate fruits, vegetables, and coffee using eco-friendly methods on-site. Guests enjoy fresh organic produce during their stay and can take it home through Blue Mountain Farms."
+  },
+  "coffee": {
+    "title": "Coffee, from slope to cup",
+    "specs": [
+      {
+        "label": "Origin",
+        "value": "Chinampas, Guanacaste"
+      },
+      {
+        "label": "Setting",
+        "value": "Mountain plantation"
+      },
+      {
+        "label": "Experience",
+        "value": "Pick, roast & cup"
+      },
+      {
+        "label": "Guest ritual",
+        "value": "Morning brew on-site"
+      }
+    ]
+  },
+  "gettingHere": {
+    "title": "Getting here",
+    "points": [
+      {
+        "label": "From Liberia (LIR)",
+        "value": "~2–2.5 hour drive"
+      },
+      {
+        "label": "From San José (SJO)",
+        "value": "~4–4.5 hour drive"
+      },
+      {
+        "label": "Sámara Beach",
+        "value": "15 minutes"
+      },
+      {
+        "label": "Transfer",
+        "value": "We can arrange private transfer"
+      }
+    ]
+  },
+  "booking": {
+    "engine": "orbe",
+    "propertyCode": "Ksta2"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/theretreatcr",
+    "facebook": "https://www.facebook.com/profile.php?id=100075792262098"
+  },
+  "pages": [
+    {
+      "slug": "the-ledge-villa",
+      "title": "The Ledge Villa",
+      "text": "Suspended above the mountain ridge, The Ledge Villa combines modern luxury with Costa Rica’s raw natural beauty. Designed for privacy and comfort, this villa features an open-concept layout with a king-size bed, a fully equipped kitchen, and a spa-inspired bathroom with soaking tub. Floor-to-ceiling windows open to a screened porch with mountain views, while the upper balcony offers sweeping vistas of both the ocean and mountains. Outdoors, guests can enjoy a shaded terrace facing the private infinity pool, surrounded by lush gardens and the property’s plantations. A walk-in closet and versatile sleeping options make this villa ideal for couples, families, or small groups seeking a serene yet elevated retreat. Book now Guests enjoy an open studio-style villa with flexible sleeping arrangements (1 king or 2 twin beds), a fully equipped kitchen, spa-style bath with tub, screened porch, covered poolside terrace, ocean- and mountain-view balcony, private infinity pool, walk-in closet, private parking, and access to surrounding gardens, plantations, and trails."
+    },
+    {
+      "slug": "the-retreat-house",
+      "title": "The Retreat House",
+      "text": "With stunning mountain and ocean views, you experience luxury unlike any other. THE RETREAT HOUSE This luxurious studio is the perfect escape for honeymooners, couples, or solo travelers looking for peace, romance, and inspiration. Just 15 minutes from Sámara’s beaches, this villa blends modern luxury with rustic charm. The private infinity pool, open-concept spa bathroom, and unique cordwood wall design make it a truly unforgettable retreat surrounded by the sights and sounds of Costa Rica. Amenities “ We had the best stay. Such a beautiful, special place. We spent hours just relaxing and watching the view. Lots of grounds to explore, we walked down to the river on the property, had a fire at the view point and my children loved the pool and the beautiful swing under the trees. Thank you so much for having us! HELENA Guest"
+    },
+    {
+      "slug": "main-house",
+      "title": "Mountain House",
+      "text": "With stunning mountain and ocean views, you experience luxury unlike any other. THE MAIN HOUSE This fabulous house is nestled in the mountains, only 15 minutes from the beaches of Samara, and it is the definition of a peaceful retreat. Come here to be alone and write your novel, relax, or to spend quality time as a family. Situated on 20 acres of private land, filled with a variety of fruit trees (coffee, chili peppers, star fruit, plantains, lime, and more) you will experience the natural beauty of Costa Rica immersed in the sights and sounds of nature. Amenities “ We had the best stay. Such a beautiful, special place. We spent hours just relaxing and watching the view. Lots of grounds to explore, we walked down to the river on the property, had a fire at the view point and my children loved the pool and the beautiful swing under the trees. Thank you so much for having us! HELENA Guest"
+    },
+    {
+      "slug": "accommodations",
+      "title": "Accommodations",
+      "text": "The Retreat at Blue Mountain Farms The Mountain House This fabulous villa is the perfect getaway for families or small groups seeking comfort, privacy, and adventure. Located just 15 minutes from Sámara’s pristine beaches, this spacious villa is nestled in the mountains, offering panoramic ocean and mountain views. Set on 20 acres of private land with fruit trees and lush landscapes, it’s the ultimate retreat to relax, write, or spend quality time together. The Retreat House This luxurious studio is the perfect escape for honeymooners, couples, or solo travelers looking for peace, romance, and inspiration. Just 15 minutes from Sámara’s beaches, this villa blends modern luxury with rustic charm. The private infinity pool, open-concept spa bathroom, and unique cordwood wall design make it a truly unforgettable retreat surrounded by the sights and sounds of Costa Rica. “ This was our second visit to The Retreat and we left hoping for a third. The grounds are gorgeous. The view is beautiful. The house is comfortable and the outdoor kitchen and pool area are terrific. We hiked the path to the river and wandered around the beautiful property checking out the thoughtful and beautiful landscaping. In the morning we drank coffee grown right onsite, a gift from our hosts. If all of that isn’t enough, the hospitality is warm, friendly and generous. drew Guest"
+    },
+    {
+      "slug": "book-main-house",
+      "title": "Book Mountain House",
+      "text": ""
+    },
+    {
+      "slug": "about-us",
+      "title": "About Us",
+      "text": "The Retreat at Blue Mountain Farms The Retreat is a serene getaway nestled in the mountains near Chinampas, Guanacaste, Costa Rica, just a short drive from vibrant Samara Beach. Our resort offers comfortable accommodations, sustainable farming, and activities designed for relaxation and rejuvenation. At The Retreat, we welcome diverse travelers—from nature enthusiasts and wellness seekers to families seeking a peaceful retreat. Our cozy houses and villas feature modern amenities and picturesque mountain views. Sustainability is central to our ethos. We cultivate our own fruits, vegetables, and coffee using eco-friendly methods on-site. Guests enjoy fresh, organic produce during their stay and can purchase these items to take home. In addition to accommodations and dining, The Retreat offers a variety of activities. Our guided tours explore local farms, coffee plantations, and provide insights into Costa Rican culture. The gift shop features locally crafted souvenirs, and our coffee shop offers a relaxing space to enjoy Costa Rican hospitality. The Retreat is a place to unwind, reconnect with nature, and appreciate Costa Rica's natural beauty. Whether seeking adventure or relaxation, our resort offers a chance to experience the charm of Costa Rica's mountains in a peaceful and welcoming environment. Come and discover The Retreat—where every moment invites you to escape, explore, and embrace the tranquility of Costa Rica's mountainous landscape."
+    },
+    {
+      "slug": "apprentice-registration-page",
+      "title": "Apprentice registration page",
+      "text": ""
+    },
+    {
+      "slug": "blog",
+      "title": "Blog",
+      "text": "This has been autogenerated as a placeholder for blog."
+    },
+    {
+      "slug": "the-retreat",
+      "title": "The Retreat House",
+      "text": "enjoy bliss in the Blue Zone “ Our family of four had an incredible stay. The views are impeccable, and the home itself is equipped for comfortable living and is in pristine condition. Josue and his team maintain the property at an impressive level and offer world class hospitality. Will book again next time we visit Costa Rica. RYAN Guest how will you pure vida? The Mountain House This fabulous villa is the perfect getaway for families or small groups seeking comfort, privacy, and adventure. The Retreat House This luxurious studio is the perfect escape for honeymooners, couples, or solo travelers . Chef's Experience Farm to Table Take a tour of our organic farm, learn how to pick ripe produce and roast coffee. Enjoy our freshly cooked meals by our top chef, with all ingredients sourced locally. activities Hiking Trails & Camping Discover 20 acres of trails for hiking, including access to a nearby river and waterfalls, with a campfire area, perfect for sunsets or stargazing. Coffee Plantation Tour Take a tour of our coffee plantation, explore its natural beauty, and learn about the delicate process of coffee-making. Sip our delicious, fresh coffee after your tour. elevated experiences The Retreat is your choice destination for organic, luxury eco-tourism in the Blue Zone. Located 10 minutes from Samara Beach and nestled into the mountain-side of organic producer, Blue Mountain Farms, The Retreat offers a truly unique experience of Costa Rica's famous Blue Zone and beaches. Local Organic Farm Eco-friendly Villas Luxury Amenities Delightful Hospitality Starlink WiFi Available pura vida is waiting for you enjoy bliss in the blue zone"
+    },
+    {
+      "slug": "sample-page",
+      "title": "Sample Page",
+      "text": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.) &#8230;or something like this: The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community. As a new WordPress user, you should go to your dashboard to delete this page and create new pages for your content. Have fun!"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "stay": "Hospedaje",
+    "farm": "Finca",
+    "experiences": "Experiencias",
+    "dining": "Cocina",
+    "about": "Nosotros",
+    "book": "Consultar disponibilidad"
+  },
+  "hero": {
+    "eyebrow": "Chinampas · Guanacaste · Costa Rica",
+    "title": "Donde la finca encuentra la cresta",
+    "status": "Tours de café diarios · Cocina bajo solicitud"
+  },
+  "specifics": {
+    "title": "Tres hogares privados en veinte acres de tierra productiva — organicos, cafetales, cocina de la finca a la mesa, a quince minutos de Playa Sámara."
+  },
+  "farm": {
+    "eyebrow": "La Finca",
+    "title": "Una finca de verdad, no un decorado",
+    "body": "La sostenibilidad es central. Cultivamos frutas, verduras y café con métodos ecológicos. Los huéspedes disfrutan produce fresco durante su estadía — y pueden llevarlo a casa con Blue Mountain Farms."
+  },
+  "coffee": {
+    "eyebrow": "Café",
+    "title": "De la ladera a la taza",
+    "body": "Recorra la plantación, conozca el proceso del café costarricense y pruebe el tostado que crece en estas pendientes."
+  },
+  "stay": {
+    "eyebrow": "Hospedaje",
+    "title": "¿Cómo vivirá su pura vida?",
+    "cta": "Ver residencia"
+  },
+  "experiences": {
+    "eyebrow": "Experiencias",
+    "title": "Días moldeados por la tierra"
+  },
+  "people": {
+    "eyebrow": "Las personas",
+    "title": "Hospitalidad con nombres propios",
+    "body": "Josué y el equipo mantienen cada villa impecable y cada sendero abierto — cuidado de primer nivel en una finca de montaña."
+  },
+  "testimonials": {
+    "eyebrow": "Huéspedes",
+    "title": "Palabras desde la terraza"
+  },
+  "gettingHere": {
+    "eyebrow": "Cómo llegar",
+    "title": "Más cerca de lo que parece"
+  },
+  "gallery": {
+    "eyebrow": "Galería",
+    "title": "Luz, madera, agua, verde"
+  },
+  "newsletter": {
+    "eyebrow": "Manténgase cerca",
+    "title": "Notas desde la montaña",
+    "placeholder": "Correo electrónico",
+    "submit": "Suscribirse",
+    "interestStay": "Estadías",
+    "interestFarm": "Finca y café",
+    "interestEvents": "Retiros y eventos"
+  },
+  "booking": {
+    "title": "Consultar disponibilidad",
+    "checkIn": "Entrada",
+    "checkOut": "Salida",
+    "adults": "Adultos",
+    "children": "Niños",
+    "submit": "Continuar a reservar",
+    "bookRoom": "Reservar habitación",
+    "bookHouse": "Reservar la casa",
+    "bookLedge": "Reservar The Ledge",
+    "enquire": "Consultar"
+  },
+  "footer": {
+    "tagline": "Ecoturismo de lujo en la Zona Azul",
+    "contact": "Contacto",
+    "follow": "Seguir"
+  },
+  "accommodation": {
+    "overview": "Resumen",
+    "info": "Información",
+    "experiences": "Experiencias",
+    "availability": "Consultar disponibilidad",
+    "amenities": "Amenidades",
+    "capacity": "Capacidad",
+    "bedrooms": "Habitaciones",
+    "checkInOut": "Entrada / Salida",
+    "checkInOutValue": "3:00 PM / 11:00 AM",
+    "whatToPack": "Qué llevar",
+    "whatToPackValue": "Capas ligeras, protector solar reef-safe, zapatos para caminar, ganas de café"
+  }
+}
