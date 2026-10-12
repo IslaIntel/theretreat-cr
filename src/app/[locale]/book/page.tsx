@@ -43,7 +43,7 @@ export default async function BookPage({
             {t("bookHouse")}
           </a>
           <a
-            href="mailto:elizabethcannva@gmail.com?subject=Enquiry%20-%20The%20Retreat"
+            href="mailto:haciendachinampas@gmail.com?subject=Enquiry%20-%20Hacienda%20Chinampas"
             className="btn btn-ink"
           >
             {t("enquire")}

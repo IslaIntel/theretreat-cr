@@ -12,8 +12,34 @@
     "title": "Donde la finca encuentra la cresta",
     "status": "Tours de café diarios · Cocina bajo solicitud"
   },
+  "home": {
+    "heroTitle": "Hacienda Chinampas",
+    "heroSub": "Villas ecológicas de lujo en las montañas sobre Playa Sámara.",
+    "statAcres": "Acres",
+    "statVillas": "Villas",
+    "statSamara": "A Sámara",
+    "statBlueZone": "Zona Azul",
+    "statBlueZoneVal": "Nicoya",
+    "writeToUs": "Escríbanos",
+    "comingSoon": "Próximamente",
+    "introTitle": "Cinco villas. Conectadas con la comunidad.",
+    "introBody": "Hacienda Chinampas nació de la visión de compartir este lugar extraordinario con quienes buscan algo más que lo ordinario — una conexión genuina con la naturaleza, la cultura local y la vida sostenible.",
+    "groundsEyebrow": "El terreno",
+    "groundsTitle": "Donde la tierra, el pueblo y el huésped son uno",
+    "groundsVillageTitle": "El pueblo",
+    "groundsVillageBody": "A quince minutos sobre Playa Sámara. Iglesias, fundadores, ancianos. Cada villa llevará el nombre de alguien de la comunidad de Chinampas — una forma de decir de quién es esta tierra.",
+    "groundsChinampasTitle": "Un sistema de chinampas, más antiguo que el pueblo",
+    "groundsChinampasBody": "Chinampas es también el sistema agrícola precolombino del centro de México, hoy Patrimonio Agrícola Mundialmente Importante. Café, papaya, mango, plátano, rambután y carambola cubren la ladera.",
+    "groundsTableTitle": "Cultivado en la montaña. Servido en la casa.",
+    "groundsTableBody": "Blue Mountain Farms abastece las villas con orgánicos de Zona Azul, aves y carne fresca, y café. Hay cinco Zonas Azules reconocidas en el mundo. La Península de Nicoya es una de ellas.",
+    "groundsTravelerTitle": "El viajero, no el turista",
+    "groundsTravelerBody": "Un <em>viajero</em> está en armonía con la tierra, la comunidad y quienes viven aquí. Hacienda Chinampas está hecha para esa estadía — no para el <em>turista</em> de paso.",
+    "experiencesNote": "En la propiedad, montaña y costa se encuentran — café, senderos, cocina de finca y ritmo de Zona Azul. Todo lo siguiente ocurre en la ladera.",
+    "villasTitle": "Cinco villas en la cresta",
+    "readMoreReviews": "Leer más reseñas"
+  },
   "specifics": {
-    "title": "Tres hogares privados en veinte acres de tierra productiva — organicos, cafetales, cocina de la finca a la mesa, a quince minutos de Playa Sámara."
+    "title": "Cinco villas privadas en veinte acres — orgánicos, cafetal, cocina de la finca a la mesa, a quince minutos de Playa Sámara."
   },
   "farm": {
     "eyebrow": "La Finca",

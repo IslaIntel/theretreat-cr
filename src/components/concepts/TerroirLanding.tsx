@@ -41,10 +41,12 @@ export function TerroirLanding({ locale }: { locale: "en" | "es" }) {
   const hero = imgByFile("TheRetreat.47", img(1));
   const farm = imgByFile("Retreat-top-lot", img(1));
   const coffee = imgByFile("Hibiscus", img(2));
-  const villaImages = [
+  const villaImagePairs = [
     [imgByFile("Retreat-527", img(2)), imgByFile("Retreat.22", img(5))],
     [imgByFile("TheRetreat.28", img(3)), imgByFile("Retreat.30", img(7))],
     [imgByFile("Retreat.16", img(4)), imgByFile("Retreat.40", img(9))],
+    [imgByFile("Retreat.16", img(4)), imgByFile("Retreat.21", img(6))],
+    [imgByFile("Hibiscus", img(2)), imgByFile("Retreat.15", img(8))],
   ];
   const active = siteContent.testimonials[quote];
 
@@ -191,7 +193,8 @@ export function TerroirLanding({ locale }: { locale: "en" | "es" }) {
           </div>
 
           {siteContent.accommodations.map((unit, i) => {
-            const field = FIELD[unit.accent];
+            const field = FIELD[unit.accent] ?? FIELD.ledge;
+            const villaImages = villaImagePairs[i] ?? villaImagePairs[0];
             return (
               <article
                 key={unit.slug}
@@ -245,7 +248,7 @@ export function TerroirLanding({ locale }: { locale: "en" | "es" }) {
                       className="relative aspect-[4/3] w-[85%] rounded-3xl"
                     >
                       <Image
-                        src={villaImages[i][0]}
+                        src={villaImages[0]}
                         alt={`${unit.name} — ${unit.tagline}`}
                         fill
                         sizes="(max-width: 1024px) 100vw, 45vw"
@@ -258,7 +261,7 @@ export function TerroirLanding({ locale }: { locale: "en" | "es" }) {
                       className="relative -mt-[22%] ml-auto aspect-square w-[46%] rounded-3xl border-4"
                     >
                       <Image
-                        src={villaImages[i][1]}
+                        src={villaImages[1]}
                         alt={`Detail at ${unit.name}`}
                         fill
                         sizes="25vw"

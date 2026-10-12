@@ -2,75 +2,95 @@
   "site": "https://theretreat.cr",
   "pulledAt": "2026-08-07T19:52:38.261Z",
   "meta": {
-    "title": "The Retreat at Blue Mountain Farms",
-    "description": "Luxury eco-retreat in Chinampas, Guanacaste — mountain-view villas, organic farm, coffee tours, and farm-to-table dining fifteen minutes from Sámara Beach.",
+    "title": "Hacienda Chinampas",
+    "description": "Luxury eco villas in the village of Chinampas, Guanacaste — Blue Zone living, fifteen minutes above Sámara Beach. Supplied by Blue Mountain Farms.",
     "location": "Chinampas, Guanacaste, Costa Rica",
     "acres": 20,
     "minutesToSamara": 15
   },
   "accommodations": [
     {
-      "slug": "the-ledge-villa",
-      "name": "The Ledge Villa",
+      "slug": "villa-1",
+      "name": "Villa 1",
       "accent": "ledge",
-      "capacity": "2–4 guests",
-      "bedrooms": 1,
-      "tagline": "Suspended above the mountain ridge",
-      "summary": "Modern luxury meets Costa Rica’s raw natural beauty. Open-concept villa with king bed, spa-inspired bath, screened porch, and a private infinity pool facing the plantations.",
-      "amenities": [
-        "Private infinity pool",
-        "Ocean & mountain balcony",
-        "Fully equipped kitchen",
-        "Spa bath with soaking tub",
-        "Walk-in closet",
-        "Flexible sleeping (1 king or 2 twins)"
-      ],
-      "imageKeys": [
-        "ledge-1",
-        "ledge-2",
-        "ledge-3"
-      ]
-    },
-    {
-      "slug": "the-retreat-house",
-      "name": "The Retreat House",
-      "accent": "retreat-house",
-      "capacity": "2 guests",
-      "bedrooms": 1,
-      "tagline": "For honeymooners, couples, or solitude",
-      "summary": "A luxurious studio blending modern comfort with rustic charm — private infinity pool, open-concept spa bathroom, and a unique cordwood wall design.",
-      "amenities": [
-        "Private infinity pool",
-        "Open-concept spa bathroom",
-        "Cordwood feature wall",
-        "Mountain & ocean views",
-        "15 minutes from Sámara"
-      ],
-      "imageKeys": [
-        "retreat-house-1",
-        "retreat-house-2"
-      ]
-    },
-    {
-      "slug": "mountain-house",
-      "name": "Mountain House",
-      "accent": "mountain-house",
-      "capacity": "4–6 guests",
+      "capacity": "Sleeps 4",
       "bedrooms": 2,
-      "tagline": "Families, small groups, long stays",
-      "summary": "Nestled on 20 private acres of fruit trees and coffee — panoramic ocean and mountain views, outdoor kitchen, pool, and trails to the river.",
+      "tagline": "Two bedrooms on the hillside",
+      "summary": "From the pool, the view stretches across jungle-covered mountains to the coastline and the Pacific Ocean, which displays breathtaking sunsets. Set on the Chinampas hillside above Sámara, Villa 1 offers floor-to-ceiling views, fruit trees just outside the door, and two bedrooms that accommodate families and couples.",
       "amenities": [
-        "Spacious villa layout",
-        "Outdoor kitchen & pool",
-        "20 acres of trails",
-        "On-site coffee & fruit trees",
-        "Ideal for families"
+        "Private outdoor pool",
+        "2 bedrooms · 4 beds · 2.5 baths",
+        "Full kitchen, outdoor dining, and grill",
+        "Air conditioning",
+        "Wifi and dedicated workspace",
+        "Village of Chinampas, Sámara, Guanacaste"
       ],
-      "imageKeys": [
-        "mountain-1",
-        "mountain-2",
-        "mountain-3"
-      ]
+      "imageKeys": ["ledge-1", "ledge-2", "ledge-3"]
+    },
+    {
+      "slug": "villa-2",
+      "name": "Villa 2",
+      "accent": "mountain-house",
+      "capacity": "Coming soon",
+      "bedrooms": 0,
+      "comingSoon": true,
+      "tagline": "Still being built",
+      "summary": "Villa 2 is still being built on the Chinampas hillside. A community-honoring name is forthcoming.",
+      "amenities": [],
+      "imageKeys": ["mountain-1"]
+    },
+    {
+      "slug": "villa-3",
+      "name": "Villa 3",
+      "accent": "retreat-house",
+      "capacity": "Sleeps 2",
+      "bedrooms": 1,
+      "tagline": "A studio for two",
+      "summary": "A studio built for honeymooners, couples, or a solo stay. Private infinity pool, open-concept spa bathroom, and a cordwood wall — fifteen minutes above Sámara Beach.",
+      "amenities": [
+        "Private infinity pool",
+        "Studio · 1 queen · 1 bath",
+        "Kitchenette and workspace",
+        "Air conditioning",
+        "Screened porch and terrace",
+        "Village of Chinampas, Sámara, Guanacaste"
+      ],
+      "imageKeys": ["retreat-house-1", "retreat-house-2"]
+    },
+    {
+      "slug": "villa-4",
+      "name": "Villa 4",
+      "accent": "mountain-house",
+      "capacity": "Sleeps 2",
+      "bedrooms": 1,
+      "tagline": "Ridge, ocean, and a soaking tub",
+      "summary": "Perched on the mountain ridge, Villa 4 opens onto a screened porch, an upper balcony, and a private infinity pool. King bed, full kitchen, and a spa bath with soaking tub.",
+      "amenities": [
+        "Private infinity pool",
+        "1 bedroom · king bed · 1 bath",
+        "Full kitchen and spa soaking tub",
+        "Air conditioning",
+        "Screened porch and upper balcony",
+        "Village of Chinampas, Sámara, Guanacaste"
+      ],
+      "imageKeys": ["mountain-1", "mountain-2", "mountain-3"]
+    },
+    {
+      "slug": "villa-5",
+      "name": "Villa 5",
+      "accent": "coffee",
+      "capacity": "Sleeps 2",
+      "bedrooms": 1,
+      "tagline": "A studio in the coffee trees",
+      "summary": "Villa 5 is a studio among coffee, papaya, mango, and hibiscus on the hillside. Mountain views, a kitchenette, and a workspace — built for a couple or a solo stay.",
+      "amenities": [
+        "Studio among the coffee trees",
+        "1 bed · 1 bath · kitchenette",
+        "Workspace and air conditioning",
+        "Coffee trees and mountain views",
+        "Village of Chinampas, Sámara, Guanacaste"
+      ],
+      "imageKeys": ["retreat-house-2"]
     }
   ],
   "testimonials": [

@@ -52,13 +52,17 @@ export function AlmanacLanding({ locale }: { locale: "en" | "es" }) {
   const plate = imgByFile("Retreat-top-lot", img(1));
   const entryImages = [
     imgByFile("Retreat-527", img(2)),
+    imgByFile("Retreat-top-lot", img(1)),
     imgByFile("TheRetreat.47", img(1)),
     imgByFile("Retreat.16", img(4)),
+    imgByFile("Hibiscus", img(2)),
   ];
   const rowThumb: Record<string, string> = {
-    "the-ledge-villa": entryImages[0],
-    "the-retreat-house": entryImages[1],
-    "mountain-house": entryImages[2],
+    "villa-1": entryImages[0],
+    "villa-2": entryImages[1],
+    "villa-3": entryImages[2],
+    "villa-4": entryImages[3],
+    "villa-5": entryImages[4],
   };
   const selected = c.season.months[month];
 

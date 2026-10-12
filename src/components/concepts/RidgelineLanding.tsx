@@ -43,8 +43,10 @@ export function RidgelineLanding({ locale }: { locale: "en" | "es" }) {
   const quoteBg = imgByFile("TheRetreat.44", img(8));
   const villaImages = [
     imgByFile("Retreat-527", img(2)),
+    imgByFile("Retreat-top-lot", img(1)),
     imgByFile("TheRetreat.47", img(1)),
     imgByFile("Retreat.16", img(4)),
+    imgByFile("Hibiscus", img(2)),
   ];
 
   return (

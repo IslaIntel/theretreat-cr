@@ -6,9 +6,11 @@ import { getAccommodation, img, imgByFile, siteContent } from "../../../../lib/c
 import { BookingWidget } from "../../../../components/BookingWidget";
 
 const imageMap: Record<string, string[]> = {
-  "the-ledge-villa": ["Retreat-527", "Retreat-500", "TheRetreat.47"],
-  "the-retreat-house": ["TheRetreat.47", "Retreat.22", "Hibiscus"],
-  "mountain-house": ["Retreat.16", "Retreat.1", "TheRetreat.28"],
+  "villa-1": ["Retreat-527", "Retreat-500", "TheRetreat.47"],
+  "villa-2": ["Retreat-top-lot", "Retreat.1"],
+  "villa-3": ["TheRetreat.47", "Retreat.22", "Hibiscus"],
+  "villa-4": ["Retreat.16", "Retreat.1", "TheRetreat.28"],
+  "villa-5": ["Hibiscus", "Retreat.21", "Retreat.30"],
 };
 
 export function generateStaticParams() {
