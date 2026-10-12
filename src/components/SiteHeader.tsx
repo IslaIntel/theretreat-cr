@@ -18,10 +18,10 @@ export function SiteHeader({ locale }: { locale: "en" | "es" }) {
   }, []);
 
   const links = [
-    { href: `#stay`, label: t("stay") },
-    { href: `#farm`, label: t("farm") },
+    { href: `#villas`, label: t("stay") },
+    { href: `#grounds`, label: t("farm") },
     { href: `#experiences`, label: t("experiences") },
-    { href: `#dining`, label: t("dining") },
+    { href: `#book`, label: t("book") },
   ];
 
   return (

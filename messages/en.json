@@ -12,8 +12,34 @@
     "title": "Where the farm meets the ridgeline",
     "status": "Coffee tours daily · Kitchen by arrangement"
   },
+  "home": {
+    "heroTitle": "Hacienda Chinampas",
+    "heroSub": "Luxury eco villas in the mountains above Sámara Beach.",
+    "statAcres": "Acres",
+    "statVillas": "Villas",
+    "statSamara": "To Sámara",
+    "statBlueZone": "Blue Zone",
+    "statBlueZoneVal": "Nicoya",
+    "writeToUs": "Write to us",
+    "comingSoon": "Coming soon",
+    "introTitle": "Five villas. Connected to community.",
+    "introBody": "Hacienda Chinampas was born from a vision to share this extraordinary place with travelers seeking something beyond the ordinary — a genuine connection with nature, local culture, and sustainable living.",
+    "groundsEyebrow": "The grounds",
+    "groundsTitle": "Where the land, the village, and the guest are one",
+    "groundsVillageTitle": "The village",
+    "groundsVillageBody": "Fifteen minutes above Sámara Beach. Churches, founders, elders. Every villa on the property will be named after someone from the Chinampas community — a way of saying whose land this is.",
+    "groundsChinampasTitle": "A floating-garden system, older than the village",
+    "groundsChinampasBody": "Chinampas is also the pre-Columbian plot system of central Mexico, now a Globally Important Agricultural Heritage System. Coffee, papaya, mango, banana, rambutan, and star fruit cover the slopes.",
+    "groundsTableTitle": "Grown on the mountain. Served at the house.",
+    "groundsTableBody": "Blue Mountain Farms supplies the villas with Blue Zone organic produce, fresh poultry and meat, and coffee. There are five recognized Blue Zones in the world. The Nicoya Peninsula is one of them.",
+    "groundsTravelerTitle": "The traveler, not the tourist",
+    "groundsTravelerBody": "A <em>traveler</em> is someone in shared harmony with the land, the community, and the people who live there. Hacienda Chinampas is built for that stay — not the <em>tourist</em> passing through.",
+    "experiencesNote": "Mountains meet the coast on the property — coffee, trails, farm kitchen, and Blue Zone rhythm. Everything below happens on the hillside.",
+    "villasTitle": "Five villas on the ridge",
+    "readMoreReviews": "Read more reviews"
+  },
   "specifics": {
-    "title": "Three private homes on twenty acres of working land — organic produce, coffee plantation, farm-to-table kitchen, fifteen minutes from Sámara Beach."
+    "title": "Five private villas on twenty acres — organic produce, coffee, farm-to-table kitchen, fifteen minutes from Sámara Beach."
   },
   "farm": {
     "eyebrow": "The Farm",
